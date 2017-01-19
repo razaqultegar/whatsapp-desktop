@@ -2,7 +2,7 @@
 
 > Unofficial Whatsapp Desktop
 
-[![](dist/img/screenshot.png)]
+[![](dist/img/screenshot.png)](https://github.com/razaqultegar/whatsapp-desktop/releases/latest)
 
 ## How to Install
 
