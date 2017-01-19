@@ -2,6 +2,8 @@
 
 > Unofficial Whatsapp Desktop
 
+[![](dist/img/screenshot.png)]
+
 ## How to Install
 
 Clone the Quick Start repository
